@@ -13,6 +13,7 @@ public class Company {
 		}
 
 		System.out.println(binary);
+		System.out.println("conflict learn");
 	}
 
 }
